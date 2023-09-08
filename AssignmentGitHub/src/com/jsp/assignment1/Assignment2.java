@@ -6,5 +6,9 @@ public class Assignment2 {
 		// TODO Auto-generated method stub
 System.out.println("Hii");
 	}
+	public static void display()
+	{
+		System.out.println("Punda");
+	}
 
 }
